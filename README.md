@@ -1,1 +1,3 @@
-# eternalmangas.github.io
+# EternalMangas
+
+A stable Mihon extension.

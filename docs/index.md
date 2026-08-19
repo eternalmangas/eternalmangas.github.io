@@ -2,15 +2,15 @@
 pageType: home
 
 hero:
-  name: My Site
-  text: A cool website!
-  tagline: This is the tagline
+  name: EternalMangas
+  text: A stable Mihon extension
+  tagline: Enjoy mangas and comics without worrying about cloudflare or broken extensions.
   actions:
     - theme: brand
       text: Quick Start
       link: /guide/start/introduction
     - theme: alt
-      text: GitHub
+      text: Download Extension
       link: https://github.com/web-infra-dev/rspress
   image:
     src: /rspress-icon.png
