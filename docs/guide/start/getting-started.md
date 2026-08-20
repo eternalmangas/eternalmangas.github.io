@@ -1,51 +1,62 @@
-# Getting started
+# Getting Started
 
-## Project structure
+Follow these steps to install and configure the EternalMangas extension.
 
-After creating a project with `create-rspress`, you will get the following project structure:
+## Step 1: Download the Extension
 
-- `docs/` — The documentation source directory, configured via `root` in `rspress.config.ts`.
-- `docs/_nav.json` — The navigation bar configuration.
-- `docs/guide/_meta.json` — The sidebar configuration for the guide section.
-- `docs/public/` — Static assets directory.
-- `theme/` — Optional custom theme directory, generated when you choose the custom theme scaffold.
-- `rspress.config.ts` — The Rspress configuration file.
+Download the latest extension APK from the GitHub releases page:
 
-## Development
+**[Download EternalMangas Extension v0.1.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.1.0/eternalmangas_extension-v0.1.0.apk)**
 
-Start the local development server:
+You can also browse all releases at:
+[https://github.com/eternalmangas/eternalmangas.github.io/releases/tag/v0.1.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/tag/v0.1.0)
 
-```bash
-npm run dev
-```
+## Step 2: Install the Extension
+
+1. Open the downloaded `.apk` file on your Android device.
+2. If prompted, allow installation from unknown sources.
+3. Complete the installation.
 
 :::tip
-
-You can specify the port number or host with `--port` or `--host`, such as `rspress dev --port 8080 --host 0.0.0.0`.
-
+Make sure Mihon (or your preferred Mihon fork) is already installed before installing the extension.
 :::
 
-## Production build
+## Step 3: Configure the Extension
 
-Build the site for production:
+Open Mihon (or Komikku / your Mihon fork) and navigate to the extension settings. Enter the following configuration:
 
-```bash
-npm run build
+### API URL
+
+```
+https://api.coffeemanga.shop
 ```
 
-By default, Rspress will output to `doc_build` directory.
+### Access Token
 
-## Preview
-
-Preview the production build locally:
-
-```bash
-npm run preview
+```
+7f426114340bdbf71517d7e5c04d5876f1f9598a0ffa5d610c42aa1f23a87d53
 ```
 
-## Next steps
+:::info
+This is a read-only token. It is used to authenticate requests to the EternalMangas API server. You do not need to create an account or generate your own token.
+:::
 
-- Learn how to use [MDX & React Components](/guide/use-mdx/components) in your docs.
-- Learn about [Code Blocks](/guide/use-mdx/code-blocks/) syntax highlighting and line highlighting.
-- Learn about [Custom Containers](/guide/use-mdx/container) for tips, warnings, and more.
-- Explore the full [Rspress documentation](https://rspress.rs/) for advanced features.
+## Step 4: Browse and Read
+
+Once configured, the EternalMangas catalog will appear in your sources list. You can browse, search, and read from over **2900+ series** — and the catalog keeps growing.
+
+## Troubleshooting
+
+### Extension not appearing in sources
+
+- Make sure the extension APK is installed correctly.
+- Restart Mihon / Komikku after installing the extension.
+
+### No content loading
+
+- Verify that the API URL and token are entered correctly.
+- Check your internet connection.
+
+### Still having issues?
+
+Open an issue on [GitHub](https://github.com/eternalmangas/eternalmangas.github.io/issues) with details about your problem.

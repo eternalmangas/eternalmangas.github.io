@@ -1,15 +1,33 @@
 # Introduction
 
-Rspress is a static site generator based on [Rsbuild](https://rsbuild.rs/), rendered with the React framework. It comes with a default documentation theme, and you can quickly build a documentation site with Rspress.
+EternalMangas is a stable, reliable Mihon extension for reading manga and comics. Unlike traditional extensions that scrape websites, EternalMangas connects to its own dedicated API server, making it immune to Cloudflare blocks, site redesigns, and anti-bot measures.
 
-## Why Rspress
+## Why EternalMangas?
 
-- **Build Performance**. The core compilation module is based on the Rust front-end toolchain, providing millisecond-level startup and a more ultimate development experience.
-- **AI-native**. Technical documentation not only serves human readers but can also be better understood and utilized by AI through SSG-MD.
-- **MDX Support**. MDX is a powerful way to write content, allowing you to use React components in Markdown.
-- **Basic Capabilities**. Including full-text search, internationalization, multi-version support, component library documentation, etc.
-- **Extensibility**. Provides a built-in plugin system, supports extending Rspress through plugin API.
+- **Won't break** — No web scraping means no breakage when sites change their layout or add protection.
+- **2900+ series** — Access a large and growing catalog of manga and comics.
+- **Dedicated server** — The extension communicates with its own API infrastructure, ensuring consistent uptime.
+- **Simple setup** — Install the extension, enter the API URL and token, and start reading.
+- **Wide compatibility** — Works with [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.io/komikku/), and any Mihon fork that supports extensions.
 
-## Try Rspress
+## How It Works
 
-Go to [Getting Started](/guide/start/getting-started) to learn how to use Rspress to build a documentation site.
+EternalMangas uses a client-server architecture:
+
+1. The **extension** (installed on your device) acts as a bridge between your manga reader app and the EternalMangas API.
+2. The **API server** hosts the full catalog of series, chapters, and images.
+3. You configure the extension with the API URL and a read-only access token.
+
+This design ensures that the extension never depends on any third-party website.
+
+## Compatibility
+
+| App | Supported |
+| --- | --------- |
+| Mihon | ✅ |
+| Komikku | ✅ |
+| Other Mihon forks (with extension support) | ✅ (likely) |
+
+## Next Steps
+
+Head to [Getting Started](/guide/start/getting-started) to download and set up the extension.
