@@ -4,7 +4,7 @@ The MangaPDF Mihon extension lets you read manga and comics on Android using [Mi
 
 ## Download
 
-**[Download MangaPDF Extension v0.3.0](https://github.com/MangaPDForg/mangapdforg.github.io/releases/download/v0.3.0/eternalmangas_extension-v0.3.0.apk)**
+**[Download MangaPDF Extension v0.3.0](https://github.com/MangaPDForg/mangapdforg.github.io/releases/download/v0.3.0/mangapdf_extension-v0.3.0.apk)**
 
 Browse all releases: [GitHub Releases](https://github.com/MangaPDForg/mangapdforg.github.io/releases)
 

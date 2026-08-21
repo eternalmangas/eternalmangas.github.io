@@ -16,7 +16,7 @@ A simple, distraction-free reader. No account required — all data and progress
 
 For use with [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.io/komikku/), or any Mihon fork that supports extensions.
 
-**[Download MangaPDF Extension v0.3.0](https://github.com/MangaPDForg/mangapdforg.github.io/releases/download/v0.3.0/eternalmangas_extension-v0.3.0.apk)**
+**[Download MangaPDF Extension v0.3.0](https://github.com/MangaPDForg/mangapdforg.github.io/releases/download/v0.3.0/mangapdf_extension-v0.3.0.apk)**
 
 1. Download and install the APK.
 2. Open Mihon — the extension appears in your sources list.
