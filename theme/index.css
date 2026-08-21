@@ -67,3 +67,20 @@
 .rp-nav__title {
   font-weight: 700;
 }
+
+.rp-home-hero__image {
+  perspective: 1000px;
+}
+
+.rp-home-hero__image-img {
+  max-width: 320px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(124, 58, 237, 0.2), 0 8px 24px rgba(0, 0, 0, 0.1);
+  transform: rotateY(-8deg) rotateX(4deg);
+  transition: transform 0.3s ease;
+}
+
+.rp-home-hero__image-img:hover {
+  transform: rotateY(0deg) rotateX(0deg);
+}

@@ -19,8 +19,8 @@ hero:
       text: API
       link: /guide/api/
   image:
-    src: /logo.png
-    alt: MangaPDF Logo
+    src: /hero_screenshot.png
+    alt: MangaPDF Extension
 features:
   - title: Mihon Extension (Android)
     details: Install the extension APK on Mihon, Komikku, or any Mihon fork. Zero configuration — comes with a default server pre-configured.
