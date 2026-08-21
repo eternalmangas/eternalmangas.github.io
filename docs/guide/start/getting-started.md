@@ -1,6 +1,16 @@
 # Getting Started
 
-EternalMangas offers extensions for Android and desktop, plus a public API for developers. Choose your path below.
+EternalMangas offers a web reader, extensions for Android and desktop, plus a public API for developers. Choose your path below.
+
+## Browser — Web Reader
+
+Read manga directly in your browser. No installation needed.
+
+**[Read Online at mangapdf.org](https://mangapdf.org)**
+
+A simple, distraction-free reader. No account required — all data and progress stored locally in your browser.
+
+[More about the web reader →](/guide/webreader/)
 
 ## Android — Mihon Extension
 

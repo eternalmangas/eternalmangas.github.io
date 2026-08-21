@@ -6,6 +6,11 @@
   },
   {
     "type": "dir-section-header",
+    "name": "webreader",
+    "label": "Web Reader"
+  },
+  {
+    "type": "dir-section-header",
     "name": "mihon",
     "label": "Mihon Extension"
   },

@@ -1,10 +1,16 @@
 # Introduction
 
-EternalMangas is a platform for reading manga and comics, available as extensions for Android and desktop, and as a public API for developers.
+EternalMangas is a platform for reading manga and comics — available as a web reader, extensions for Android and desktop, and a public API for developers.
 
 Unlike traditional extensions that scrape websites, everything connects to dedicated API servers — immune to Cloudflare blocks, site redesigns, and anti-bot measures.
 
 ## Products
+
+### Web Reader
+
+Read manga directly in your browser at [mangapdf.org](https://mangapdf.org). A simple, distraction-free reader with no accounts required. All data and progress stored locally in your browser.
+
+[Read Online →](/guide/webreader/)
 
 ### Mihon Extension (Android)
 
@@ -46,6 +52,7 @@ This design ensures that the extensions never depend on any third-party website.
 ## Next Steps
 
 - [Getting Started](/guide/start/getting-started) — Overview and download links
+- [Web Reader](/guide/webreader/) — Read in your browser
 - [Mihon Extension Setup](/guide/mihon/) — Android installation guide
 - [Chrome Extension Setup](/guide/chrome/) — Desktop installation guide
 - [Extension Configuration](/guide/mihon/configuration) — API server options

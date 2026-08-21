@@ -7,6 +7,9 @@ hero:
   tagline: Enjoy 2900+ manga and comic series on Android and Desktop — or build your own app with our public API. No Cloudflare blocks, no broken extensions, no scraping.
   actions:
     - theme: brand
+      text: Read Online
+      link: https://mangapdf.org
+    - theme: alt
       text: Get Started
       link: /guide/start/getting-started
     - theme: alt
@@ -30,6 +33,10 @@ features:
     details: Load the extension in Chrome on desktop. Download, enable developer mode, load unpacked — zero configuration needed.
     icon: 🖥️
     link: /guide/chrome/
+  - title: Web Reader
+    details: Read manga directly in your browser at mangapdf.org. A simple, distraction-free reader. All data and progress stored locally in your browser.
+    icon: 🌐
+    link: /guide/webreader/
   - title: Public API
     details: Build your own app, extension, or web reader on top of the EternalMangas API. Read-only, no auth token needed, 2900+ series.
     icon: 🔌
