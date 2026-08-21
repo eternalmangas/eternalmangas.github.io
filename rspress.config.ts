@@ -13,7 +13,7 @@ export default defineConfig({
       {
         icon: 'github',
         mode: 'link',
-        content: 'https://github.com/eternalmangas/eternalmangas.github.io',
+        content: 'https://github.com/MangaPDForg/mangapdforg.github.io',
       },
     ],
   },
