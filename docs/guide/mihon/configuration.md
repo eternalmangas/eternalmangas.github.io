@@ -1,6 +1,6 @@
 # Extension Configuration
 
-Both the Mihon extension and Chrome extension come with a default API server pre-configured. You do not need to change anything to start using EternalMangas.
+Both the Mihon extension and the web app come with a default API server pre-configured. You do not need to change anything to start using EternalMangas.
 
 If you want to switch to a different API server, you can change the API base URL in the extension settings.
 
@@ -29,15 +29,15 @@ If you want to switch to a different API server, you can change the API base URL
 No access token is required. The API token field has been removed in v0.2.0.
 :::
 
-## Chrome Extension — Changing the API URL
+## Web App — Changing the API URL
 
-1. Click the **EternalMangas** extension icon in Chrome.
-2. Open the extension's **Settings** or **Options** page.
+1. Open the EternalMangas web app.
+2. Open the **Settings** page.
 3. Change the **API Base URL** field to one of the servers listed above.
 4. Save. The change takes effect immediately.
 
-![Chrome Extension Config](/screenshots/chrome/chrome_extension_config.png)
+![Web App Config](/screenshots/webapp/webapp_config.png)
 
 ## No Token Required
 
-As of v0.2.0, API access tokens have been removed from both extensions. No authentication is needed to access the catalog.
+As of v0.2.0, API access tokens have been removed from both extensions and the web app. No authentication is needed to access the catalog.

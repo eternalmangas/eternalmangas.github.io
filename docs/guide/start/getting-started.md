@@ -24,18 +24,16 @@ For use with [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.i
 
 [Full setup guide →](/guide/mihon/)
 
-## Desktop — Chrome Extension
+## Desktop — Web App
 
-For use with Google Chrome on desktop.
+For use on desktop — no installation required.
 
-**[Download Chrome Extension v0.2.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.2.0/eternalmangas-chrome-extension.zip)**
+**[Open the Web App](https://mangapdf.org)**
 
-1. Download and unzip the file.
-2. Open `chrome://extensions`, enable Developer mode.
-3. Click "Load unpacked" and select the unzipped folder.
-4. Start browsing. Zero configuration required.
+1. Open [mangapdf.org](https://mangapdf.org) in your browser.
+2. Start browsing. Zero configuration required.
 
-[Full setup guide →](/guide/chrome/)
+[Full details →](/guide/webapp/)
 
 ## Developers — Public API
 
@@ -52,7 +50,7 @@ No token needed. 2900+ series available. Read-only.
 
 ## Configuration
 
-Both extensions come with a default API server pre-configured. If you want to switch to a different API server, see [Extension Configuration](/guide/mihon/configuration).
+Extensions and the web app come with a default API server pre-configured. If you want to switch to a different API server, see [Extension Configuration](/guide/mihon/configuration).
 
 ## Browse Releases
 

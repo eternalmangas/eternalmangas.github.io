@@ -22,5 +22,5 @@ Many more features are planned for the web reader. Stay tuned for updates.
 If you prefer a native app experience:
 
 - [Mihon Extension](/guide/mihon/) — Android
-- [Chrome Extension](/guide/chrome/) — Desktop
+- [Web App](/guide/webapp/) — Desktop
 - [API](/guide/api/) — Build your own reader

@@ -33,7 +33,7 @@ X-Client: api-consumer
 | Client Value | Use Case |
 | --- | --- |
 | `mihon-extension` | Used by the EternalMangas Mihon extension (do not use) |
-| `chrome-extension` | Used by the EternalMangas Chrome extension (do not use) |
+| `webapp` | Used by the EternalMangas web app (do not use) |
 | `api-consumer` | **Use this for your own apps, web readers, and integrations** |
 
 Requests without a valid `X-Client` header receive a `403 Forbidden` response.

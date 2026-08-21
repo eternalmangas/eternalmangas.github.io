@@ -16,8 +16,8 @@
   },
   {
     "type": "dir-section-header",
-    "name": "chrome",
-    "label": "Chrome Extension"
+    "name": "webapp",
+    "label": "Web App"
   },
   {
     "type": "dir-section-header",

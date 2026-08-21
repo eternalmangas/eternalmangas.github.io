@@ -18,11 +18,11 @@ An extension for [Mihon](https://mihon.app/), [Komikku](https://komikku-app.gith
 
 [Get the Mihon Extension →](/guide/mihon/)
 
-### Chrome Extension (Desktop)
+### Web App (Desktop)
 
-A Chrome extension for desktop users. Download, enable developer mode, load unpacked, and start browsing — zero configuration required.
+A standalone web app for desktop users. Open in your browser and start browsing — zero configuration required.
 
-[Get the Chrome Extension →](/guide/chrome/)
+[Get the Web App →](/guide/webapp/)
 
 ### Public API
 
@@ -35,7 +35,7 @@ A read-only REST API for developers. Build your own app, extension, web reader, 
 - **Won't break** — No web scraping means no breakage when sites change their layout or add protection.
 - **2900+ series** — Access a large and growing catalog of manga and comics. 10K+ planned in the next 2-3 months.
 - **Dedicated servers** — Extensions and API consumers connect to dedicated API infrastructure, ensuring consistent uptime.
-- **Zero configuration** — Both extensions come with a default API server pre-configured. Just install and read.
+- **Zero configuration** — Extensions and the web app come with a default API server pre-configured. Just install and read.
 - **Configurable** — Optionally switch to a different API server if needed.
 - **Open API** — Developers can build on top of the EternalMangas API to create their own tools and readers.
 
@@ -54,6 +54,6 @@ This design ensures that the extensions never depend on any third-party website.
 - [Getting Started](/guide/start/getting-started) — Overview and download links
 - [Web Reader](/guide/webreader/) — Read in your browser
 - [Mihon Extension Setup](/guide/mihon/) — Android installation guide
-- [Chrome Extension Setup](/guide/chrome/) — Desktop installation guide
+- [Web App](/guide/webapp/) — Desktop web app
 - [Extension Configuration](/guide/mihon/configuration) — API server options
 - [API Documentation](/guide/api/) — Build your own app
