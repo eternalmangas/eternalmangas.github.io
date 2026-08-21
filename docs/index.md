@@ -4,7 +4,7 @@ pageType: home
 hero:
   name: EternalMangas
   text: Stable Manga & Comics Extensions
-  tagline: Enjoy 2900+ manga and comic series on Android and Desktop. No Cloudflare blocks, no broken extensions, no scraping — powered by dedicated API servers.
+  tagline: Enjoy 2900+ manga and comic series on Android and Desktop — or build your own app with our public API. No Cloudflare blocks, no broken extensions, no scraping.
   actions:
     - theme: brand
       text: Get Started
@@ -27,20 +27,20 @@ features:
     details: Load the extension in Chrome on desktop. Download, enable developer mode, load unpacked — zero configuration needed.
     icon: 🖥️
     link: /guide/chrome/
+  - title: Public API
+    details: Build your own app, extension, or web reader on top of the EternalMangas API. Read-only, no auth token needed, 2900+ series.
+    icon: 🔌
+    link: /guide/api/
   - title: Won't Break
-    details: No web scraping. Both extensions connect to dedicated API servers, making them immune to Cloudflare blocks, site redesigns, and anti-bot measures.
+    details: No web scraping. Extensions and API consumers connect to dedicated servers, immune to Cloudflare blocks, site redesigns, and anti-bot measures.
     icon: 🛡️
     link: /guide/start/introduction
   - title: 2900+ Series
-    details: Access a growing catalog of over 2900 manga and comic series, with more being added regularly.
+    details: Access a growing catalog of over 2900 manga and comic series, with more being added regularly. 10K+ planned in the next 2-3 months.
     icon: 📚
     link: /guide/start/introduction
   - title: Zero Configuration
     details: Both extensions come with a default API server pre-configured. Just install and start reading. Optionally switch to a different API server.
     icon: ⚡
     link: /guide/mihon/configuration
-  - title: Own Server Infrastructure
-    details: Backed by dedicated API servers that host the full catalog. No reliance on third-party sites that may go down or change.
-    icon: 🌐
-    link: /guide/start/introduction
 ---

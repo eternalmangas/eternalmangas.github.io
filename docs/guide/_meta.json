@@ -13,5 +13,10 @@
     "type": "dir-section-header",
     "name": "chrome",
     "label": "Chrome Extension"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "api",
+    "label": "API"
   }
 ]

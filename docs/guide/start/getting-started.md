@@ -1,6 +1,6 @@
 # Getting Started
 
-EternalMangas offers extensions for both Android and desktop. Choose your platform below.
+EternalMangas offers extensions for Android and desktop, plus a public API for developers. Choose your path below.
 
 ## Android — Mihon Extension
 
@@ -26,6 +26,19 @@ For use with Google Chrome on desktop.
 4. Start browsing. Zero configuration required.
 
 [Full setup guide →](/guide/chrome/)
+
+## Developers — Public API
+
+Build your own app, extension, or web reader on top of the EternalMangas API.
+
+```bash
+curl -H "X-Client: api-consumer" \
+  "https://api.coffeemanga.shop/api/v1/mihon/popular?page=1"
+```
+
+No token needed. 2900+ series available. Read-only.
+
+[API documentation →](/guide/api/)
 
 ## Configuration
 

@@ -1,6 +1,8 @@
 # Introduction
 
-EternalMangas is a suite of stable, reliable extensions for reading manga and comics on Android and desktop. Unlike traditional extensions that scrape websites, EternalMangas extensions connect to dedicated API servers, making them immune to Cloudflare blocks, site redesigns, and anti-bot measures.
+EternalMangas is a platform for reading manga and comics, available as extensions for Android and desktop, and as a public API for developers.
+
+Unlike traditional extensions that scrape websites, everything connects to dedicated API servers — immune to Cloudflare blocks, site redesigns, and anti-bot measures.
 
 ## Products
 
@@ -16,13 +18,20 @@ A Chrome extension for desktop users. Download, enable developer mode, load unpa
 
 [Get the Chrome Extension →](/guide/chrome/)
 
+### Public API
+
+A read-only REST API for developers. Build your own app, extension, web reader, or scraper on top of the EternalMangas catalog. No authentication token needed — just set the `X-Client: api-consumer` header.
+
+[Explore the API →](/guide/api/)
+
 ## Why EternalMangas?
 
 - **Won't break** — No web scraping means no breakage when sites change their layout or add protection.
-- **2900+ series** — Access a large and growing catalog of manga and comics.
-- **Dedicated servers** — Extensions communicate with dedicated API infrastructure, ensuring consistent uptime.
+- **2900+ series** — Access a large and growing catalog of manga and comics. 10K+ planned in the next 2-3 months.
+- **Dedicated servers** — Extensions and API consumers connect to dedicated API infrastructure, ensuring consistent uptime.
 - **Zero configuration** — Both extensions come with a default API server pre-configured. Just install and read.
 - **Configurable** — Optionally switch to a different API server if needed.
+- **Open API** — Developers can build on top of the EternalMangas API to create their own tools and readers.
 
 ## How It Works
 
@@ -40,3 +49,4 @@ This design ensures that the extensions never depend on any third-party website.
 - [Mihon Extension Setup](/guide/mihon/) — Android installation guide
 - [Chrome Extension Setup](/guide/chrome/) — Desktop installation guide
 - [Extension Configuration](/guide/mihon/configuration) — API server options
+- [API Documentation](/guide/api/) — Build your own app
