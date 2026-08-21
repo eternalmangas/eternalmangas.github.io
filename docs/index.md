@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: Mihon Extension
       link: /guide/mihon/
+    - theme: alt
+      text: Chrome Extension
+      link: /guide/chrome/
   image:
     src: /logo.png
     alt: EternalMangas Logo
