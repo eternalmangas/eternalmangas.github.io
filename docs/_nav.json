@@ -5,6 +5,14 @@
     "activeMatch": "/guide/"
   },
   {
+    "text": "Mihon Extension",
+    "link": "/guide/mihon/"
+  },
+  {
+    "text": "Chrome Extension",
+    "link": "/guide/chrome/"
+  },
+  {
     "text": "GitHub",
     "link": "https://github.com/eternalmangas/eternalmangas.github.io"
   }

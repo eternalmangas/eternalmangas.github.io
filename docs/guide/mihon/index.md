@@ -1,0 +1,58 @@
+# Mihon Extension
+
+The EternalMangas Mihon extension lets you read manga and comics on Android using [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.io/komikku/), or any Mihon fork that supports extensions.
+
+## Download
+
+**[Download EternalMangas Extension v0.2.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.2.0/eternalmangas_extension-v0.2.0.apk)**
+
+Browse all releases: [GitHub Releases](https://github.com/eternalmangas/eternalmangas.github.io/releases)
+
+## Installation
+
+1. Download the APK file linked above.
+2. Open the downloaded `.apk` file on your Android device.
+3. If prompted, allow installation from unknown sources.
+4. Complete the installation.
+
+:::tip
+Make sure Mihon (or your preferred Mihon fork) is already installed before installing the extension.
+:::
+
+## Setup
+
+That's it — **zero configuration required**.
+
+The extension comes with a default API server pre-configured. After installation:
+
+1. Open Mihon (or Komikku / your Mihon fork).
+2. The EternalMangas extension will appear in your sources list.
+3. Browse, search, and read from over **2900+ series**.
+
+:::info
+In v0.2.0, the API URL is configured by default and no access token is required. If you want to change the API server, see [Extension Configuration](/guide/mihon/configuration).
+:::
+
+## Compatibility
+
+| App | Supported |
+| --- | --------- |
+| Mihon | ✅ |
+| Komikku | ✅ |
+| Other Mihon forks (with extension support) | ✅ (likely) |
+
+## Troubleshooting
+
+### Extension not appearing in sources
+
+- Make sure the extension APK is installed correctly.
+- Restart Mihon / Komikku after installing the extension.
+
+### No content loading
+
+- Check your internet connection.
+- Verify the API URL in [Extension Configuration](/guide/mihon/configuration).
+
+### Still having issues?
+
+Open an issue on [GitHub](https://github.com/eternalmangas/eternalmangas.github.io/issues) with details about your problem.

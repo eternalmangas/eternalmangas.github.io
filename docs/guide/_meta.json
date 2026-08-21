@@ -3,5 +3,15 @@
     "type": "dir-section-header",
     "name": "start",
     "label": "Getting Started"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "mihon",
+    "label": "Mihon Extension"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "chrome",
+    "label": "Chrome Extension"
   }
 ]
