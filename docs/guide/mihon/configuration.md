@@ -23,6 +23,8 @@ If you want to switch to a different API server, you can change the API base URL
 4. Change the **API URL** field to one of the servers listed above.
 5. Save and restart the extension source.
 
+![Mihon Extension Config](/screenshots/mihon/mihon_extension_config.png)
+
 :::tip
 No access token is required. The API token field has been removed in v0.2.0.
 :::
@@ -33,6 +35,8 @@ No access token is required. The API token field has been removed in v0.2.0.
 2. Open the extension's **Settings** or **Options** page.
 3. Change the **API Base URL** field to one of the servers listed above.
 4. Save. The change takes effect immediately.
+
+![Chrome Extension Config](/screenshots/chrome/chrome_extension_config.png)
 
 ## No Token Required
 

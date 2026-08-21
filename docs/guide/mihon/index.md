@@ -33,6 +33,38 @@ The extension comes with a default API server pre-configured. After installation
 In v0.2.0, the API URL is configured by default and no access token is required. If you want to change the API server, see [Extension Configuration](/guide/mihon/configuration).
 :::
 
+## Screenshots
+
+### Browse Catalog
+
+Browse the full catalog of 2900+ series directly from the extension.
+
+![Browse Page](/screenshots/mihon/mihon_extension_browse_page.png)
+
+### Search
+
+Search for specific titles across the entire catalog.
+
+![Search Page](/screenshots/mihon/mihon_extension_search_page.png)
+
+### Manga Details
+
+View series information, chapters, and reading status.
+
+![Single Manga Page](/screenshots/mihon/mihon_extension_single_manga_page.png)
+
+### Chapter Reader
+
+Read chapters with a smooth, native reading experience.
+
+![Chapter Reader](/screenshots/mihon/mihon_extension_chapter_reader.png)
+
+### Extension Settings
+
+Configure the API server URL if needed.
+
+![Extension Config](/screenshots/mihon/mihon_extension_config.png)
+
 ## Compatibility
 
 | App | Supported |

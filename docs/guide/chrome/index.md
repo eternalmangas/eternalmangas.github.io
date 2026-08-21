@@ -31,6 +31,50 @@ The extension comes with a default API server pre-configured. After installation
 You can optionally change the API server. See [Extension Configuration](/guide/mihon/configuration) for available API servers.
 :::
 
+## Screenshots
+
+### My Library
+
+Your personal library of saved manga and comics.
+
+![My Library](/screenshots/chrome/chrome_extension_my_library.png)
+
+### Popular Titles
+
+Discover popular and trending series.
+
+![Popular](/screenshots/chrome/chrome_extension_popular.png)
+
+### Latest Updates
+
+Stay up to date with the latest chapter releases.
+
+![Latest Updates](/screenshots/chrome/chrome_extension_latest_updates.png)
+
+### Search
+
+Search for specific titles across the full catalog.
+
+![Search](/screenshots/chrome/chrome_extension_search.png)
+
+### Manga Details
+
+View series information, chapter list, and reading status.
+
+![Single Manga Page](/screenshots/chrome/chrome_extension_single_manga_page.png)
+
+### Chapter Reader
+
+Read chapters with a clean, comfortable reading experience.
+
+![Chapter Reader](/screenshots/chrome/chrome_extension_chapter_reader.png)
+
+### Extension Settings
+
+Configure the API server URL if needed.
+
+![Extension Config](/screenshots/chrome/chrome_extension_config.png)
+
 ## Updating
 
 To update the extension:

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "rspress-docs-generator": {
+      "source": "rstackjs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/rspress-docs-generator/SKILL.md",
+      "computedHash": "29ab486fd64614aa2a5380d4eb2aecaa21a2f6d5c012d77e4dfffde42ecaa08f"
+    }
+  }
+}
