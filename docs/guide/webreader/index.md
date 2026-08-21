@@ -13,6 +13,50 @@ A simple, distraction-free web reader. No accounts, no sign-ups, no clutter. Jus
 - **Full catalog** — Access the same 2900+ series available through the extensions and API.
 - **Clean reading experience** — Minimal UI focused on reading, without ads or distractions.
 
+## Screenshots
+
+### My Library
+
+Your personal library of saved manga and comics.
+
+![My Library](/screenshots/webreader/my_library.png)
+
+### Popular Titles
+
+Discover popular and trending series.
+
+![Popular](/screenshots/webreader/popular.png)
+
+### Latest Updates
+
+Stay up to date with the latest chapter releases.
+
+![Latest Updates](/screenshots/webreader/latest_updates.png)
+
+### Search
+
+Search for specific titles across the full catalog.
+
+![Search](/screenshots/webreader/search.png)
+
+### Manga Details
+
+View series information, chapter list, and reading status.
+
+![Single Manga Page](/screenshots/webreader/single_manga_page.png)
+
+### Chapter Reader
+
+Read chapters with a clean, comfortable reading experience.
+
+![Chapter Reader](/screenshots/webreader/chapter_reader.png)
+
+### Settings
+
+Configure the API server URL if needed.
+
+![Settings](/screenshots/webreader/config.png)
+
 ## Coming Soon
 
 Many more features are planned for the web reader. Stay tuned for updates.
@@ -22,5 +66,4 @@ Many more features are planned for the web reader. Stay tuned for updates.
 If you prefer a native app experience:
 
 - [Mihon Extension](/guide/mihon/) — Android
-- [Web App](/guide/webapp/) — Desktop
 - [API](/guide/api/) — Build your own reader

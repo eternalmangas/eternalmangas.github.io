@@ -16,11 +16,6 @@
   },
   {
     "type": "dir-section-header",
-    "name": "webapp",
-    "label": "Web App"
-  },
-  {
-    "type": "dir-section-header",
     "name": "api",
     "label": "API"
   }

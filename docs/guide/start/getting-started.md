@@ -1,6 +1,6 @@
 # Getting Started
 
-EternalMangas offers a web reader, extensions for Android and desktop, plus a public API for developers. Choose your path below.
+EternalMangas offers a web reader, an extension for Android, plus a public API for developers. Choose your path below.
 
 ## Browser — Web Reader
 
@@ -24,17 +24,6 @@ For use with [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.i
 
 [Full setup guide →](/guide/mihon/)
 
-## Desktop — Web App
-
-For use on desktop — no installation required.
-
-**[Open the Web App](https://mangapdf.org)**
-
-1. Open [mangapdf.org](https://mangapdf.org) in your browser.
-2. Start browsing. Zero configuration required.
-
-[Full details →](/guide/webapp/)
-
 ## Developers — Public API
 
 Build your own app, extension, or web reader on top of the EternalMangas API.
@@ -50,7 +39,7 @@ No token needed. 2900+ series available. Read-only.
 
 ## Configuration
 
-Extensions and the web app come with a default API server pre-configured. If you want to switch to a different API server, see [Extension Configuration](/guide/mihon/configuration).
+Both extensions come with a default API server pre-configured. If you want to switch to a different API server, see [Extension Configuration](/guide/mihon/configuration).
 
 ## Browse Releases
 

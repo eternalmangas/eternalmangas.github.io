@@ -16,9 +16,6 @@ hero:
       text: Mihon Extension
       link: /guide/mihon/
     - theme: alt
-      text: Web App
-      link: /guide/webapp/
-    - theme: alt
       text: API
       link: /guide/api/
   image:
@@ -29,10 +26,6 @@ features:
     details: Install the extension APK on Mihon, Komikku, or any Mihon fork. Zero configuration — comes with a default server pre-configured.
     icon: 📱
     link: /guide/mihon/
-  - title: Web App (Desktop)
-    details: Use the standalone web app on desktop. Open in your browser — zero configuration needed.
-    icon: 🖥️
-    link: /guide/webapp/
   - title: Web Reader
     details: Read manga directly in your browser at mangapdf.org. A simple, distraction-free reader. All data and progress stored locally in your browser.
     icon: 🌐
