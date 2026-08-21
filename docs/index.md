@@ -2,7 +2,7 @@
 pageType: home
 
 hero:
-  name: EternalMangas
+  name: MangaPDF
   text: Stable Manga & Comics Extensions
   tagline: Enjoy 2900+ manga and comic series on Android and Desktop — or build your own app with our public API. No Cloudflare blocks, no broken extensions, no scraping.
   actions:
@@ -20,7 +20,7 @@ hero:
       link: /guide/api/
   image:
     src: /logo.png
-    alt: EternalMangas Logo
+    alt: MangaPDF Logo
 features:
   - title: Mihon Extension (Android)
     details: Install the extension APK on Mihon, Komikku, or any Mihon fork. Zero configuration — comes with a default server pre-configured.
@@ -31,7 +31,7 @@ features:
     icon: 🌐
     link: /guide/webreader/
   - title: Public API
-    details: Build your own app, extension, or web reader on top of the EternalMangas API. Read-only, no auth token needed, 2900+ series.
+    details: Build your own app, extension, or web reader on top of the MangaPDF API. Read-only, no auth token needed, 2900+ series.
     icon: 🔌
     link: /guide/api/
   - title: Won't Break

@@ -1,6 +1,6 @@
 # Getting Started
 
-EternalMangas offers a web reader, an extension for Android, plus a public API for developers. Choose your path below.
+MangaPDF offers a web reader, an extension for Android, plus a public API for developers. Choose your path below.
 
 ## Browser — Web Reader
 
@@ -16,7 +16,7 @@ A simple, distraction-free reader. No account required — all data and progress
 
 For use with [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.io/komikku/), or any Mihon fork that supports extensions.
 
-**[Download Mihon Extension v0.2.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.2.0/eternalmangas_extension-v0.2.0.apk)**
+**[Download MangaPDF Extension v0.2.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.2.0/eternalmangas_extension-v0.2.0.apk)**
 
 1. Download and install the APK.
 2. Open Mihon — the extension appears in your sources list.
@@ -26,7 +26,7 @@ For use with [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.i
 
 ## Developers — Public API
 
-Build your own app, extension, or web reader on top of the EternalMangas API.
+Build your own app, extension, or web reader on top of the MangaPDF API.
 
 ```bash
 curl -H "X-Client: api-consumer" \

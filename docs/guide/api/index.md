@@ -1,6 +1,6 @@
 # API Overview
 
-The EternalMangas API is a read-only REST API that provides access to a catalog of 2900+ manga and comic series. Anyone can use it to build their own apps, extensions, scrapers, or web readers.
+The MangaPDF API is a read-only REST API that provides access to a catalog of 2900+ manga and comic series. Anyone can use it to build their own apps, extensions, scrapers, or web readers.
 
 :::info
 **API v2 is under development.** The current v1 API is minimal. v2 will add filtering by genre, sorting options, and more. This page will be updated when v2 is released.
@@ -32,8 +32,8 @@ X-Client: api-consumer
 
 | Client Value | Use Case |
 | --- | --- |
-| `mihon-extension` | Used by the EternalMangas Mihon extension (do not use) |
-| `webapp` | Used by the EternalMangas web app (do not use) |
+| `mihon-extension` | Used by the MangaPDF Mihon extension (do not use) |
+| `webapp` | Used by the MangaPDF web app (do not use) |
 | `api-consumer` | **Use this for your own apps, web readers, and integrations** |
 
 Requests without a valid `X-Client` header receive a `403 Forbidden` response.
@@ -96,7 +96,7 @@ However, deliberate heavy DDoS attacks will result in IP bans. Be a good citizen
 
 ## Attribution
 
-We appreciate attribution but it is not required. If you use the API, a link back to EternalMangas is welcome but optional.
+We appreciate attribution but it is not required. If you use the API, a link back to MangaPDF is welcome but optional.
 
 ## Endpoints
 

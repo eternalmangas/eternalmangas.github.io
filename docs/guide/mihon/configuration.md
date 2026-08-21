@@ -1,6 +1,6 @@
 # Extension Configuration
 
-The Mihon extension comes with a default API server pre-configured. You do not need to change anything to start using EternalMangas.
+The Mihon extension comes with a default API server pre-configured. You do not need to change anything to start using MangaPDF.
 
 If you want to switch to a different API server, you can change the API base URL in the extension settings.
 
@@ -18,7 +18,7 @@ If you want to switch to a different API server, you can change the API base URL
 ## Mihon Extension — Changing the API URL
 
 1. Open Mihon (or Komikku / your Mihon fork).
-2. Go to **Extensions** → find **EternalMangas**.
+2. Go to **Extensions** → find **MangaPDF**.
 3. Tap the **Settings** (gear icon) next to the extension.
 4. Change the **API URL** field to one of the servers listed above.
 5. Save and restart the extension source.

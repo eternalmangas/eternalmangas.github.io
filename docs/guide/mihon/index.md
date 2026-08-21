@@ -1,10 +1,10 @@
 # Mihon Extension
 
-The EternalMangas Mihon extension lets you read manga and comics on Android using [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.io/komikku/), or any Mihon fork that supports extensions.
+The MangaPDF Mihon extension lets you read manga and comics on Android using [Mihon](https://mihon.app/), [Komikku](https://komikku-app.github.io/komikku/), or any Mihon fork that supports extensions.
 
 ## Download
 
-**[Download EternalMangas Extension v0.2.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.2.0/eternalmangas_extension-v0.2.0.apk)**
+**[Download MangaPDF Extension v0.2.0](https://github.com/eternalmangas/eternalmangas.github.io/releases/download/v0.2.0/eternalmangas_extension-v0.2.0.apk)**
 
 Browse all releases: [GitHub Releases](https://github.com/eternalmangas/eternalmangas.github.io/releases)
 
@@ -26,7 +26,7 @@ That's it — **zero configuration required**.
 The extension comes with a default API server pre-configured. After installation:
 
 1. Open Mihon (or Komikku / your Mihon fork).
-2. The EternalMangas extension will appear in your sources list.
+2. The MangaPDF extension will appear in your sources list.
 3. Browse, search, and read from over **2900+ series**.
 
 :::info

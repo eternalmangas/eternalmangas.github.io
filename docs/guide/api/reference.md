@@ -1,6 +1,6 @@
 # API Reference
 
-Detailed documentation for every EternalMangas API endpoint.
+Detailed documentation for every MangaPDF API endpoint.
 
 :::info
 **API v2 is under development.** The current v1 API is minimal. v2 will add filtering by genre, sorting options, and more.

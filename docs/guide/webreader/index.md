@@ -1,6 +1,6 @@
 # Web Reader
 
-The EternalMangas web reader is available at **[mangapdf.org](https://mangapdf.org)**. It lets you read manga and comics directly in your browser — no app installation or extension needed.
+The MangaPDF web reader is available at **[mangapdf.org](https://mangapdf.org)**. It lets you read manga and comics directly in your browser — no app installation or extension needed.
 
 ## What It Is
 
