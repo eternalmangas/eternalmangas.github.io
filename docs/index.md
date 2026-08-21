@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Chrome Extension
       link: /guide/chrome/
+    - theme: alt
+      text: API
+      link: /guide/api/
   image:
     src: /logo.png
     alt: EternalMangas Logo
